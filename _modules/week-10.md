@@ -2,8 +2,8 @@
 title:
 ---
 
-Oct 28
-: **Lecture**{: .label .label-purple } [Memory management](#)
+Nov 11
+: **Lecture**{: .label .label-gray } [Veteran's Day, No class](#)
 
-Oct 30
-: **Lecture**{: .label .label-purple } [Memory management](#)
+Nov 13
+: **Lecture**{: .label .label-purple } [Memory Management](#)

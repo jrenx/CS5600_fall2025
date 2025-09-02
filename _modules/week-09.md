@@ -2,8 +2,8 @@
 title:
 ---
 
-Oct 21
-: **Lecture**{: .label .label-red } [Midterm](#)
+Oct 28
+: **Lecture**{: .label .label-purple } [Memory management](#)
 
-Oct 23
+Oct 30
 : **Lecture**{: .label .label-purple } [Memory management](#)

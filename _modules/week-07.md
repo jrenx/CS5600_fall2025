@@ -2,8 +2,8 @@
 title:
 ---
 
-Oct 7
+Oct 14
 : **Lecture**{: .label .label-purple } [Synchronization](#)
 
-Oct 9
-: **Lecture**{: .label .label-purple } [Synchronization](#)
+Oct 16
+: **Lecture**{: .label .label-blue } [Review](#)

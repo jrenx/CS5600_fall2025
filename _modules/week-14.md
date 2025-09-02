@@ -2,8 +2,8 @@
 title:
 ---
 
-Nov 25
-: **Lecture**{: .label .label-purple } [File system](#)
+Dec 2
+: **Lecture**{: .label .label-purple } [Security](#)
 
-Nov 27
-: **Lecture**{: .label .label-gray } [Fall break, No class](#)
+Dec 4 
+: **Lecture**{: .label .label-gray } [Review](#)
