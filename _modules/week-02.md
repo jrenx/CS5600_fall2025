@@ -1,23 +1,40 @@
----
-title: Basic Data Structures
----
-
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
-
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
+Sep 9
+: **Lecture**{: .label .label-purple }[Overview: hardware & OS](#)
   : [Solution](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Sep 11
+: **Lecture**{: .label .label-purple }[Overview: hardware & OS, Process](#)
+  : [1.2](#), [2.1](#)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Sep 16
+: **Lecture**{: .label .label-purple } [Process](#)
+
+Sep 18
+: **Lecture**{: .label .label-purple } [Process](#)
+
+Sep 23
+: **Lecture**{: .label .label-purple } [Process, Thread](#)
+
+Sep 25
+: **Lecture**{: .label .label-purple } [Thread, Scheduling](#)
+
+Sep 30
+: **Lecture**{: .label .label-purple } [Scheduling](#)
+
+Oct 2
+: **Lecture**{: .label .label-purple } [Synchronization](#)
+
+Oct 7
+: **Lecture**{: .label .label-purple } [Synchronization](#)
 
 Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+: **Lecture**{: .label .label-purple } [Synchronization](#)
+
+Oct 14
+: **Lecture**{: .label .label-purple } [Synchronization](#)
+
+Oct 16
+: **Lecture**{: .label .label-purple } [Review](#)
+
+Oct 21
+: **Lecture**{: .label .label-red } [Midterm](#)
