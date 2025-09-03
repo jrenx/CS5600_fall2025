@@ -1,5 +1,5 @@
 ---
-name: Xiang Ren
+name: Xiang (Jenny) Ren
 role: Instructor
 email: xi dot ren at northeastern dot edu
 meta:
