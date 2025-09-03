@@ -31,5 +31,3 @@ You should work independently on the lab assignments. You can discuss with fello
 ## Late Assignments
 
 Late assignments will not be accepted unless for extremely exceptional circumstances.
-
-## Assignments
