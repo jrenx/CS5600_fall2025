@@ -1,11 +1,10 @@
 ---
-name: Kevin Lin
+name: Xiang Ren
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: xi.ren@northeastern.edu
+website: [https://kevinl.info](https://jrenx.github.io/)
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: At the end of the second lecture every week.
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
