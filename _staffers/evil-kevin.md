@@ -1,6 +1,5 @@
 ---
 name: Yibo (Brent) Zhao
 role: Teaching Assistant
-email: me@example.com
-photo: kevin.jpg
+email: zhao dot yibo at northeastern dot edu
 ---
