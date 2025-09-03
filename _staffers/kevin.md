@@ -7,5 +7,3 @@ photo:
 meta:
   Office Hours: At the end of the second lecture every week.
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
