@@ -3,5 +3,5 @@ name: Xiang (Jenny) Ren
 role: Instructor
 email: xi dot ren at northeastern dot edu
 meta:
-  Office Hours: At the end of the second lecture every week.
+  Office Hours: Tuesday 2:30-3:30pm WVH258
 ---
