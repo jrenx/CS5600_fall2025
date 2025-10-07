@@ -30,4 +30,4 @@ You should work independently on the lab assignments. You can discuss with fello
 
 ## Late Assignments
 
-You will be given 5 day ``late credits'' for all assignments. Once the late credits are used, late assignments will not be accepted unless for extremely exceptional circumstances.
+You will be given 5 day ``late credits'' for all assignments. Once the late credits are used up, late assignments will not be accepted unless for extremely exceptional circumstances.
