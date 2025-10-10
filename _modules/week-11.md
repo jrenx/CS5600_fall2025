@@ -3,7 +3,7 @@ title:
 ---
 
 Nov 11
-: **Lecture**{: .label .label-purple } [File system](#)
+: [Veteran's Day, No class](#)
 
 Nov 13
 
