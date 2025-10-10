@@ -2,10 +2,9 @@
 title:
 ---
 
-Nov 11
-: [Veteran's Day, No class](#)
-
-Nov 13
-
+Nov 4
 : **Lecture**{: .label .label-purple } [File system](#)
 
+Nov 6
+
+: **Lecture**{: .label .label-purple } [File system](#)
