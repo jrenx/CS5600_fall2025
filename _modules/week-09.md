@@ -8,4 +8,5 @@ Oct 28
 Oct 30
 
 : **Lecture**{: .label .label-purple } [Memory management](#)
-: **Due**{: .label .label-red } [Lab3](#)
+
+
