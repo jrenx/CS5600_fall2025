@@ -8,3 +8,6 @@ Dec 2
 Dec 4 
 
 : **Lecture**{: .label .label-gray } [Review](#)
+
+Dec 5
+: **Due**{: .label .label-red } [Lab5](#)
